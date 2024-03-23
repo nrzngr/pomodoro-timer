@@ -21,7 +21,7 @@ const start = () => {
   document.getElementById("reset").style.display = "block";
 
   // change time
-  seconds = 5;
+  seconds = 59;
   let workMinutes = workTime - 1;
   let breakMinutes = breakTime - 1;
 
